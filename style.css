@@ -1,0 +1,79 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+p2{
+  font-size: 20px;
+  color: red;
+  position:absolute;
+  top: 70px;
+  left: 650px;
+}
+button2{
+  font-size: 25px;
+  background-color: darkblue;
+  border: 3px solid aqua;
+  border-radius: 25px;
+  color: aqua;
+
+  position: absolute;
+  top:70px;
+  left:1230px;
+}
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+  background: red; /* For browsers that do not support gradients */    
+  background: -webkit-linear-gradient(left, red , yellow); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, blue, purple); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, blue, purple); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, turquoise,blue ,  purple );
+
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+p{
+  font-size: 132px;
+  color: darkblue;
+}
+
+button1{
+
+  font-size: 30px;
+  background-color: aqua;
+  color: red;
+  border: 3px solid black;
+
+}
+p1{
+  font-size: 30px;
+  color: darkblue;
+}
+button{
+  font-size: 30px;
+  background-color: darkblue;
+  border: 3px solid aqua;
+  border-radius: 25px;
+  color: aqua;
+  position: absolute;
+  left: 4px;
+  top: 60px; }
+
+#m{
+  font-size: 30px;
+  background-color: yellow;
+  color: black;
+  border: 3px  solid black; 
+  position:absolute;
+
+  left: 630px;
+
+  top: 350px;
+}

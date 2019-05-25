@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient(to right, purple,silver);
+}
+h1{
+  color: lightgoldenrodyellow;
+  font-size: 100px;
+}
+button1{
+  font-size: 100px;
+  background-color: whitesmoke;
+  border: 3px solid gray;
+  border-radius: 10px;
+  color: lightseagreen;
+  position: absolute;
+  left: 590px;
+  top: 450px; }
+#n{
+  font-size:100px;
+  position:absolute;
+  left: 525px;
+  top: 200px;
+  color:lightgoldenrodyellow;
+}
+button1:hover{
+  opacity: .7;
+
+}
